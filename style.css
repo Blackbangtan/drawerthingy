@@ -1,0 +1,7 @@
+#show_sketch{
+float: right;
+}
+canvas{
+border:5px solid rgb(124, 3, 245);
+border-radius:20 px ;
+}
